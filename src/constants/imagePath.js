@@ -1,0 +1,23 @@
+export default{
+    front:require('../assets/images/front.png'),
+    trust:require('../assets/images/trust.jpg'),
+    rupee:require('../assets/images/rupee.png'),
+    settings:require('../assets/images/settings.png'),
+    bank:require('../assets/images/bank.png'),
+    forward:require('../assets/images/forward.png'),
+    request:require('../assets/images/request.png'),
+    send:require('../assets/images/send.png'),
+    qr:require('../assets/images/qr.png'),
+    gold:require('../assets/images/gold.png'),
+    money:require('../assets/images/money.png'),
+    safe:require('../assets/images/safe.png'),
+    more:require('../assets/images/more.png'),
+    account:require('../assets/images/account.png'),
+    card:require('../assets/images/card.png'),
+    cashbook:require('../assets/images/cashbook.jpg'),
+    quiz:require('../assets/images/quiz.png'),
+    help:require('../assets/images/help.png'),
+    about:require('../assets/images/about.png'),
+    logo2:require('../assets/images/dhoni2.png'),
+    back:require('../assets/images/back.png')
+}
